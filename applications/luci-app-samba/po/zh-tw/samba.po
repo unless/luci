@@ -56,7 +56,7 @@ msgid "Mask for new files"
 msgstr "新檔案權限掩碼"
 
 msgid "Name"
-msgstr "名称"
+msgstr "共享名"
 
 msgid "Network Shares"
 msgstr "網路共享"
